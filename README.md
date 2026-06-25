@@ -9,6 +9,7 @@ Repositorio de prácticas de la materia Análisis de Datos para Negocios Digital
 
 ## Tabla de prácticas
 
-| Práctica | Descripción |
-|-----------|-----------|
-| [Práctica 02](Practica02/Practica01_230004.ipynb) | Análisis de datos Uber |
+| Práctica | Descripción | Firmas|estatus|
+|-----------|-----------|-----------|-----------|
+| [Práctica 02](Practica02/Practica01_230004.ipynb) | Análisis de datos con Python y Jupyter usando un dataset de amazon store| 16 | Revisada |
+| [Práctica 01](Practica02/Practica01_230004.ipynb) | Análisis al uso de Python en el analisis de datos | 37 | Revisada |
